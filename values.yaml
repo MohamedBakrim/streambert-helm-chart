@@ -1,7 +1,7 @@
 # Default values for net_chart.
 # Bakrim (streambert) web app - Vite/React static build served by nginx.
 
-replicaCount: 2
+replicaCount: 1
 
 image:
   # Build with:
